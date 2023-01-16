@@ -1,0 +1,5 @@
+name = input('please enter your name: ')
+age = int(input('and your age: '))
+printing =int(input('how many times do you want to see the message: '))
+year= 2022+(100-age)
+print(name, ', you will be 100 years in:', year)
